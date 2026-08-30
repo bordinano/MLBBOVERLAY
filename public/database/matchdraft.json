@@ -1,0 +1,80 @@
+{
+  "draftdata": {
+    "timer": "60",
+    "timerRunning": false,
+    "current_phase": 17,
+    "blueside": {
+      "ban": [
+        {
+          "hero": "/Assets/HeroPick/beleric.png"
+        },
+        {
+          "hero": "/Assets/HeroPick/hirara.png"
+        },
+        {
+          "hero": "/Assets/HeroPick/atlas.png"
+        },
+        {
+          "hero": "/Assets/HeroPick/irithel.png"
+        },
+        {
+          "hero": "/Assets/HeroPick/nolan.png"
+        }
+      ],
+      "pick": [
+        {
+          "hero": "/Assets/HeroPick/marcel.png"
+        },
+        {
+          "hero": "/Assets/HeroPick/sora.png"
+        },
+        {
+          "hero": "/Assets/HeroPick/zetian.png"
+        },
+        {
+          "hero": "/Assets/HeroPick/granger.png"
+        },
+        {
+          "hero": "/Assets/HeroPick/leomord.png"
+        }
+      ]
+    },
+    "redside": {
+      "ban": [
+        {
+          "hero": "/Assets/HeroPick/lukas.png"
+        },
+        {
+          "hero": "/Assets/HeroPick/valentina.png"
+        },
+        {
+          "hero": "/Assets/HeroPick/kaja.png"
+        },
+        {
+          "hero": "/Assets/HeroPick/melissa.png"
+        },
+        {
+          "hero": ""
+        }
+      ],
+      "pick": [
+        {
+          "hero": "/Assets/HeroPick/alice.png"
+        },
+        {
+          "hero": "/Assets/HeroPick/rafaela.png"
+        },
+        {
+          "hero": "/Assets/HeroPick/eudora.png"
+        },
+        {
+          "hero": "/Assets/HeroPick/obsidia.png"
+        },
+        {
+          "hero": "/Assets/HeroPick/paquito.png"
+        }
+      ]
+    },
+    "timer_running": true
+  }
+}

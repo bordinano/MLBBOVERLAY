@@ -1,0 +1,209 @@
+{
+  "game_duration": "40:20",
+  "game_number": "1",
+  "teamdata": {
+    "blueteam": {
+      "teamname": "Minerva Legion",
+      "score": "1",
+      "logo": "",
+      "totalgold": 0,
+      "turret": 0,
+      "lord": 0,
+      "turtle": 0,
+      "playerlist": [
+        {
+          "name": "",
+          "lane": "none",
+          "hero": "marcel",
+          "banhero": "Beleric",
+          "level": 0,
+          "gold": 0,
+          "KDA": "0/0/0",
+          "spell": "Inspire",
+          "itemlist": [
+            "Azure Blade",
+            "Brute Force Breastplate",
+            "Dreadnaught Armor",
+            "idle",
+            "idle",
+            "idle"
+          ]
+        },
+        {
+          "name": "",
+          "lane": "none",
+          "hero": "Sora",
+          "banhero": "hirara",
+          "level": 0,
+          "gold": 0,
+          "KDA": "0/0/0",
+          "spell": "Enchanted Talisman",
+          "itemlist": [
+            "idle",
+            "idle",
+            "idle",
+            "idle",
+            "idle",
+            "idle"
+          ]
+        },
+        {
+          "name": "",
+          "lane": "none",
+          "hero": "Zetian",
+          "banhero": "Atlas",
+          "level": 0,
+          "gold": 0,
+          "KDA": "0/0/0",
+          "spell": "Endless Battle",
+          "itemlist": [
+            "idle",
+            "idle",
+            "idle",
+            "idle",
+            "idle",
+            "idle"
+          ]
+        },
+        {
+          "name": "",
+          "lane": "none",
+          "hero": "Granger",
+          "banhero": "Irithel",
+          "level": 0,
+          "gold": 0,
+          "KDA": "0/0/0",
+          "spell": "Blade Armor",
+          "itemlist": [
+            "idle",
+            "idle",
+            "idle",
+            "idle",
+            "Dreadnaught Armor",
+            "Concentrated Energy"
+          ]
+        },
+        {
+          "name": "",
+          "lane": "none",
+          "hero": "Leomord",
+          "banhero": "Nolan",
+          "level": 0,
+          "gold": 0,
+          "KDA": "0/0/0",
+          "spell": "Vampire Mallet",
+          "itemlist": [
+            "idle",
+            "idle",
+            "idle",
+            "idle",
+            "idle",
+            "idle"
+          ]
+        }
+      ]
+    },
+    "redteam": {
+      "teamname": "Elite Circuit",
+      "score": "0",
+      "logo": "",
+      "totalgold": 0,
+      "turret": 0,
+      "lord": 0,
+      "turtle": 0,
+      "playerlist": [
+        {
+          "name": "",
+          "lane": "none",
+          "hero": "Alice",
+          "banhero": "Lukas",
+          "level": 0,
+          "gold": 0,
+          "KDA": "0/0/0",
+          "spell": "",
+          "itemlist": [
+            "idle",
+            "idle",
+            "idle",
+            "idle",
+            "idle",
+            "idle"
+          ]
+        },
+        {
+          "name": "",
+          "lane": "none",
+          "hero": "Rafaela",
+          "banhero": "Valentina",
+          "level": 0,
+          "gold": 0,
+          "KDA": "0/0/0",
+          "spell": "",
+          "itemlist": [
+            "idle",
+            "idle",
+            "idle",
+            "idle",
+            "idle",
+            "idle"
+          ]
+        },
+        {
+          "name": "",
+          "lane": "none",
+          "hero": "Eudora",
+          "banhero": "Kaja",
+          "level": 0,
+          "gold": 0,
+          "KDA": "0/0/0",
+          "spell": "",
+          "itemlist": [
+            "idle",
+            "idle",
+            "idle",
+            "idle",
+            "idle",
+            "idle"
+          ]
+        },
+        {
+          "name": "",
+          "lane": "none",
+          "hero": "Obsidia",
+          "banhero": "Melissa",
+          "level": 0,
+          "gold": 0,
+          "KDA": "0/0/0",
+          "spell": "",
+          "itemlist": [
+            "idle",
+            "idle",
+            "idle",
+            "idle",
+            "idle",
+            "idle"
+          ]
+        },
+        {
+          "name": "",
+          "lane": "none",
+          "hero": "Paquito",
+          "banhero": "",
+          "level": 0,
+          "gold": 0,
+          "KDA": "0/0/0",
+          "spell": "",
+          "itemlist": [
+            "idle",
+            "idle",
+            "idle",
+            "idle",
+            "idle",
+            "idle"
+          ]
+        }
+      ]
+    }
+  },
+  "winmatches": "blue"
+}
